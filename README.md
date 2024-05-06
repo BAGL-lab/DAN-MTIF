@@ -15,6 +15,9 @@ Research reported in this publication was supported by the NIBIB of the National
 
 ## Cite
 If our work is helpful to you, please cite:
+```html
+Jiao, Meng, Changyue Song, Xiaochen Xian, Shihao Yang, and Feng Liu. "Deep Attention Networks with Multi-Temporal Information Fusion for Sleep Apnea Detection." medRxiv preprint (2024).
+```
 
 ## Email
 If you have any questions, please email to: [fliu22@stevens.edu](mailto:fliu22@stevens.edu)
