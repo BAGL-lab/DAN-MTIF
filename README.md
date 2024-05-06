@@ -11,7 +11,7 @@ Sleep Apnea (SA) is a prevalent sleep disorder with multifaceted etiologies that
 [Apnea-ECG Database](https://physionet.org/content/apnea-ecg/1.0.0/)
 
 ## Acknowledgment
-
+Research reported in this publication was supported by the NIBIB of the National Institutes of Health (NIH) under Award Number R21EB033455. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
 
 ## Cite
 If our work is helpful to you, please cite:
